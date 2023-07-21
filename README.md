@@ -13,7 +13,9 @@ My path in tech began when I was 18 years old. Since then, I have had the privil
 
 Based on feedback received over the years, I like to believe that I am a valuable addition to any team, as I bring fresh perspectives and easily adapt to different work challenges, ranging from casual to highly formal environments.
 
-[![Blog](https://github-readme-stats.vercel.app/api?username={brantcassani}&theme=blue-green)]()
+![brantcassani's GitHub stats](https://github-readme-stats.vercel.app/api?username=brantcassani&theme=dracula&show_icons=true)
 
 ### Just for fun! Check it belows if you think we have a similar music taste  🎧😜
 [![Blog](https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white)](https://www.last.fm/pt/user/brantcassani)
+
+
