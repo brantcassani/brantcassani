@@ -4,12 +4,12 @@
 
 
 ## Bem-vindo ao mundo de Sérgio Cassani ✌️🇧🇷
-<tab>Minha trajetória profissional começou na area de tecnologia logo aos 18 anos e tive o privilégio de desde então, nunca ter ficado um dia sem trabalhar, em constante evolução tanto de formação educacional quanto de carreira profissional, tenho uma mente analítica e um lado humano bem empático, sou bem-humorado e ótimo com trabalho em equipes, funciono bem liderando quanto em ser liderado, sou flexível e sei lidar com pressõas no ambiente, sejam elas oriundas de necessidade do governo, cliente, prazo etc.
+<tab>Minha trajetória profissional começou na area de tecnologia logo aos 18 anos, 11 anos atrás e tive o privilégio de desde então, nunca ter ficado um dia sem trabalhar, em constante evolução tanto de formação educacional quanto de carreira profissional, tenho uma mente analítica e um lado humano bem empático, sou bem-humorado e ótimo com trabalho em equipes, funciono bem liderando quanto em ser liderado, sou flexível e sei lidar com pressõas no ambiente, sejam elas oriundas de necessidade do governo, cliente, prazo etc.
 gosto de acreditar tendo base alguns feedbacks ao longo desses anos que eu sou um ótimo acrescento para qualquer time, pois trago novas visões e transito bem entre ambientes dos leves até os mais formais.</tab>
 
 
 ## Welcome to Sérgio Cassani's World ✌️🇺🇸
-My path in tech began when I was 18 years old. Since then, I have had the privilege of never being out of that area, constantly evolving both in educational background and my professional career. I believe my strengths lie in possessing an analytical mind and a highly empathetic nature. I have a great sense of humor and excel at teamwork. I can adapt and function effectively as both a leader and a team member when needed. I am flexible and adept at handling pressures in the work environment, whether they come from government requirements, clients, or deadlines.
+My path in tech began when I was 18 years old, 11 ago. Since then, I have had the privilege of never being out of that area, constantly evolving both in educational background and my professional career. I believe my strengths lie in possessing an analytical mind and a highly empathetic nature. I have a great sense of humor and excel at teamwork. I can adapt and function effectively as both a leader and a team member when needed. I am flexible and adept at handling pressures in the work environment, whether they come from government requirements, clients, or deadlines.
 
 Based on feedback received over the years, I like to believe that I am a valuable addition to any team, as I bring fresh perspectives and easily adapt to different work challenges, ranging from casual to highly formal environments.
 
